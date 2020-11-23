@@ -1,0 +1,32 @@
+body { 
+font-family: 'Vendana', san-serif;
+font-size: 16px;
+background-color: #ff5533;
+margin: 0 10%;
+}
+h1 {
+font-family: 'Goldman', san-serif;
+text-align: center;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #57b1dc;
+margin-top: 30px;
+text-decoration: underline;
+}
+h2 {
+font-family: 'Goldman', san-serif;
+color: #33FF89;
+font-size: 1.25em; 
+text-decoration: underline;
+}
+b {
+color: blue;
+}
+p {
+font-style: italic;
+}
+a:link { color: maroon;}
+a:visited { color: gray;}
+a:focus { color: maroon;}
+a:hover { color: maroon;}
+a:active{ color: red;}
