@@ -1,0 +1,45 @@
+body{
+backgroung-color: #008b8b;
+margian-top: 0 10%;
+font-family: sans-serif;
+background-image: url(blackgoose.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: 50% 10em;
+background-attachment: fixed;
+}
+h1{
+border: 1px solid #57b1dc;
+margin-top: 30px;
+text-align: center;
+font-family: "Castoro",Georgia, serif;
+font-weight: normal;
+text-transform: uppercase;
+border-bottom: 1px solid #57b1dc;
+text-shadow: .05em .05em gray;
+color: #800000;
+}
+h2{ 
+color: #d1633c;
+border: 1px solid #57b1dc;
+margin-top: 30px;
+text-align:center;
+font-family: "Castoro",Georgia, serif;
+text-shadow: .05em .05em gray;
+}
+p{
+text-align: center;
+color: red;
+}
+a{
+text-transform: uppercase;
+}
+strong{
+color: #57b1dc;
+font-family: Verdana,sans-serif;
+}
+a:link{color:red;}
+a:visited{color: red;}
+a:focus{color: red; background-color: #ffd9d9}
+a:hover{color: red; background-color: #ffd9d9}
+a:active{color: gren; background-color: #ffd9d9}
